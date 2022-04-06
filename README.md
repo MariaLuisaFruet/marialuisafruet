@@ -12,7 +12,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Nary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" >
   <img align="center" alt="Nary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Nary-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/716314473354231969/958351594850770974/download20220302095217.png?width=358&height=358">
